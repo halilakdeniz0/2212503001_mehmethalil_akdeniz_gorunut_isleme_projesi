@@ -1,4 +1,4 @@
-# 🚗 Car Damage Detection System (Araç Hasar Tespit Sistemi)
+#  Car Damage Detection System (Araç Hasar Tespit Sistemi)
 
 Bu proje, görüntü işleme ve derin öğrenme tekniklerini kullanarak araçlardaki hasarları (ezik, çizik, kırık cam vb.) otomatik olarak tespit eden yapay zeka tabanlı bir sistemdir.
 
