@@ -19,7 +19,7 @@ Bu proje, görüntü işleme ve derin öğrenme tekniklerini kullanarak araçlar
 
 ## 📊 Model Eğitimi ve Performans
 
-Model, **YOLOv8** mimarisi kullanılarak eğitilmiştir. Eğitim süreci `projebittikodu.ipynb` dosyasında detaylandırılmıştır.
+Model, **YOLOv8** mimarisi kullanılarak eğitilmiştir. Eğitim süreci `arac_hasar_analizi.ipynb` dosyasında detaylandırılmıştır.
 
 * **Dataset:** [Dataset ismini veya kaynağını buraya yazabilirsin, örn: Roboflow Car Damage Dataset]
 * **Epoch Sayısı:** [Notebook'taki epoch sayısını buraya yaz, örn: 50]
