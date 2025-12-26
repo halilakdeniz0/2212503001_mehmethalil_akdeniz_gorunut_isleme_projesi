@@ -16,35 +16,6 @@ Bu proje, görüntü işleme ve derin öğrenme tekniklerini kullanarak araçlar
 * Araç kiralama şirketleri için giriş-çıkış kontrollerini otomatize etmek.
 * Kullanıcıların araç hasar durumunu hızlıca analiz etmesini sağlamak.
 
-## 📂 Proje Yapısı
-
-* **`projebittikodu.ipynb`**: Modelin eğitimi, veri setinin işlenmesi ve validasyon süreçlerini içeren Jupyter Notebook dosyası.
-* **`gradio_car_damage.py`**: Eğitilen modeli kullanarak son kullanıcı için web arayüzü oluşturan Python betiği.
-* **`best.pt`**: Eğitim sonucunda elde edilen en başarılı model ağırlık dosyası (Weights).
-
-## 🛠️ Kurulum
-
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
-
-1.  **Repoyu klonlayın:**
-    ```bash
-    git clone [https://github.com/kullaniciadi/Car-Damage-Detection.git](https://github.com/kullaniciadi/Car-Damage-Detection.git)
-    cd Car-Damage-Detection
-    ```
-
-2.  **Gerekli kütüphaneleri yükleyin:**
-    ```bash
-    pip install ultralytics gradio torch
-    ```
-
-3.  **Uygulamayı Başlatın:**
-    Terminal veya komut satırında aşağıdaki komutu çalıştırın:
-    ```bash
-    python gradio_car_damage.py
-    ```
-
-4.  **Arayüze Erişin:**
-    Terminalde verilen local linke (genellikle `http://127.0.0.1:7860`) tıklayarak tarayıcınızda sistemi kullanabilirsiniz.
 
 ## 📊 Model Eğitimi ve Performans
 
@@ -63,9 +34,5 @@ Model, **YOLOv8** mimarisi kullanılarak eğitilmiştir. Eğitim süreci `projeb
 4.  Branch'inizi pushlayın (`git push origin feature/yeniozellik`).
 5.  Pull Request oluşturun.
 
-## 📄 Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır.
-
----
 Developed by Mehmet Halil Akdeniz
