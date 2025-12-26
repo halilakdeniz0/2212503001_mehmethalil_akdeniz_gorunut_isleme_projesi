@@ -17,22 +17,4 @@ Bu proje, görüntü işleme ve derin öğrenme tekniklerini kullanarak araçlar
 * Kullanıcıların araç hasar durumunu hızlıca analiz etmesini sağlamak.
 
 
-## 📊 Model Eğitimi ve Performans
-
-Model, **YOLOv8** mimarisi kullanılarak eğitilmiştir. Eğitim süreci `arac_hasar_analizi.ipynb` dosyasında detaylandırılmıştır.
-
-* **Dataset:** [Dataset ismini veya kaynağını buraya yazabilirsin, örn: Roboflow Car Damage Dataset]
-* **Epoch Sayısı:** [Notebook'taki epoch sayısını buraya yaz, örn: 50]
-* **Başarı Oranı (mAP):** [Elde ettiğin mAP değerini buraya yazabilirsin]
-
-
-## 🤝 Katkıda Bulunma
-
-1.  Forklayın (Fork).
-2.  Branch oluşturun (`git checkout -b feature/yeniozellik`).
-3.  Değişikliklerinizi commit yapın (`git commit -am 'Yeni özellik eklendi'`).
-4.  Branch'inizi pushlayın (`git push origin feature/yeniozellik`).
-5.  Pull Request oluşturun.
-
-
 Developed by Mehmet Halil Akdeniz
